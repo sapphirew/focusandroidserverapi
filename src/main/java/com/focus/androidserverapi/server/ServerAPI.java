@@ -4,8 +4,8 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.InputStreamReader;
 
-import edu.pitt.sis.infsci2711.multidbs.utils.JerseyJettyServer;
-import edu.pitt.sis.infsci2711.multidbs.utils.PropertiesManager;
+import focusandroidserverutils.multidbsutils.*;
+
 public class ServerAPI {
 	
 	private final static String PROPERTY_PORT = "port";
