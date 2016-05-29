@@ -1,6 +1,5 @@
 package com.focus.androidserverapi.rest;
 
-import java.util.List;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
